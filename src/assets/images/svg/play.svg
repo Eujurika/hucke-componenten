@@ -1,0 +1,11 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 108.57 108.57">
+  <defs>
+    <style>.a{fill:#b0b0b5;}.b{fill:#fff;fill-rule:evenodd;}</style>
+  </defs>
+  <circle class="a" cx="54.29" cy="54.29" r="54.29"/>
+  <polygon
+    class="b" points="84.31 54.76 62.7 70.77 41.08 86.78 41.08 54.76 41.08 22.75 62.7 38.76 84.31 54.76"
+  />
+</svg>

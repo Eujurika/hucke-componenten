@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108.57 108.57">
+  <defs>
+    <style>.a{fill:#b0b0b5;}.b{fill:#fff;}.c{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.75px;}</style>
+  </defs>
+  <circle class="a" cx="54.29" cy="54.29" r="54.29"/>
+  <rect class="b" x="38.67" y="22.57" width="8.52" height="62.33" rx="3"/>
+  <rect class="c" x="38.67" y="22.57" width="8.52" height="62.33" rx="3"/>
+  <rect class="b" x="61.41" y="22.57" width="8.52" height="62.33" rx="3"/>
+  <rect class="c" x="61.41" y="22.57" width="8.52" height="62.33" rx="3"/>
+</svg>
