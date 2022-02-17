@@ -3,6 +3,8 @@ const isWindowAvailable = typeof window !== 'undefined';
 
 const getPosition = () => (isWindowAvailable ? window.pageYOffset : undefined);
 
+
+// custom hook to detect scrollposition
 const useWindowScrollPosition = () => {
   const [scrollPosition, setScrollPosition] = useState(getPosition());
 
